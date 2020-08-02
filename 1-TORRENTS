@@ -1,29 +1,23 @@
-<channels>
-<channel>
+<item>
 <name>[COLOR lime]FILMES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/KbWSBYt/cat-filmes.png</thumbnail>
 <externallink></externallink>
 <fanart>https://i.ibb.co/wJ6Nr0R/fanartcat-filmes.jpg</fanart>
 <info></info>
-</channel>
-</channels>
+</item>
 
-<channels>
-<channel>
+<item>
 <name>[COLOR lime]SERIES[/COLOR]</name>
 <thumbnail>https://i.ibb.co/KbWSBYt/cat-filmes.png</thumbnail>
 <externallink></externallink>
 <fanart>https://i.ibb.co/wJ6Nr0R/fanartcat-filmes.jpg</fanart>
 <info></info>
-</channel>
-</channels>
+</item>
 
-<channels>
-<channel>
+<item>
 <name>[COLOR lime]DESENHOS[/COLOR]</name>
 <thumbnail>https://i.ibb.co/KbWSBYt/cat-filmes.png</thumbnail>
 <externallink></externallink>
 <fanart>https://i.ibb.co/wJ6Nr0R/fanartcat-filmes.jpg</fanart>
 <info></info>
-</channel>
-</channels>
+</item>
