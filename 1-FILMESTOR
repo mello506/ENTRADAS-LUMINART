@@ -33,12 +33,13 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]NOME DO FILME 1[/COLOR]</name>
-<thumbnail>ICONE CAPA</thumbnail>
+<name>[COLOR lime]NOME DO FILME[/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
 
 <item>
 <title>[COLOR lime]NOME DO FILME E DADOS[/COLOR]</title>
 <link>MAGNET LINK</link>
+<thumbnail>ICONE</thumbnail>
 <fanart>FANART</fanart>
 <info>SINOPSE</info>
 <genre>GENERO</genre>
@@ -54,8 +55,8 @@
 </item>
 
 <item>
-<title>[COLOR lime]TRAILER+NOME DO FILME E DADOS[/COLOR]</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=c6205wjdN-g</trailer>
+<title>[COLOR lime]TRAILER - NOME DO FILME E DADOS[/COLOR]</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LINKYOUTUBE</trailer>
 <thumbnail>ICONE</thumbnail>
 <fanart>FANART</fanart>
 <info>SINOPSE</info>
@@ -65,12 +66,13 @@
 
 <channels></channels>
 <channel>
-<name>[COLOR lime]NOME DO FILME 1[/COLOR]</name>
-<thumbnail>ICONE CAPA</thumbnail>
+<name>[COLOR lime]NOME DO FILME[/COLOR]</name>
+<thumbnail>ICONE</thumbnail>
 
 <item>
 <title>[COLOR lime]NOME DO FILME E DADOS[/COLOR]</title>
 <link>MAGNET LINK</link>
+<thumbnail>ICONE</thumbnail>
 <fanart>FANART</fanart>
 <info>SINOPSE</info>
 <genre>GENERO</genre>
@@ -86,8 +88,8 @@
 </item>
 
 <item>
-<title>[COLOR lime]TRAILER+NOME DO FILME E DADOS[/COLOR]</title>
-<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=c6205wjdN-g</trailer>
+<title>[COLOR lime]TRAILER - NOME DO FILME E DADOS[/COLOR]</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LINKYOUTUBE</trailer>
 <thumbnail>ICONE</thumbnail>
 <fanart>FANART</fanart>
 <info>SINOPSE</info>
