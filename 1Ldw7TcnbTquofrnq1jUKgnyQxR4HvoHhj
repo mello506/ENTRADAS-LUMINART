@@ -10,10 +10,10 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]SÉRIES[/COLOR]</name>
-<thumbnail></thumbnail>
+<name>[COLOR lime]SERIES[/COLOR]</name>
+<thumbnail>https://i.ibb.co/Z198HvG/cat-series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/store/master</externallink>
-<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/22092018/icon-cangaco.png</fanart>
+<fanart>https://i.ibb.co/ZzDKJBc/fanartcat-series.jpg</fanart>
 <info></info>
 </channel>
 </channels>
@@ -21,9 +21,9 @@
 <channels>
 <channel>
 <name>[COLOR lime]DESENHOS[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ibb.co/ThT5YFB/cat-desenhos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/kodishmediacenter/store/master</externallink>
-<fanart>https://raw.githubusercontent.com/kodishmediacenter/store/master/22092018/icon-cangaco.png</fanart>
+<fanart>https://i.ibb.co/GpRJghY/fanartcat-desenhos.jpg</fanart>
 <info></info>
 </channel>
 </channels>
