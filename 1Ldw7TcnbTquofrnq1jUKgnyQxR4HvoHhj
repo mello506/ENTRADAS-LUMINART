@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR lime]FILMES TORRENTS[/COLOR]</name>
+<name>[COLOR lime]FILMES [/COLOR]</name>
 <thumbnail>https://i.ibb.co/KbWSBYt/cat-filmes.png</thumbnail>
 <fanart>https://i.ibb.co/wJ6Nr0R/fanartcat-filmes.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/1-FILMESTOR</externallink>
@@ -10,7 +10,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]SERIES TORRENTS[/COLOR]</name>
+<name>[COLOR lime]SERIES [/COLOR]</name>
 <thumbnail>https://i.ibb.co/Z198HvG/cat-series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/2-SERIES</externallink>
 <fanart></fanart>
@@ -20,7 +20,7 @@
 
 <channels>
 <channel>
-<name>[COLOR lime]DESENHOS TORRENTS[/COLOR]</name>
+<name>[COLOR lime]DESENHOS [/COLOR]</name>
 <thumbnail>https://i.ibb.co/ThT5YFB/cat-desenhos.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/3-DESENHOS</externallink>
 <fanart>https://i.ibb.co/GpRJghY/fanartcat-desenhos.jpg</fanart>
