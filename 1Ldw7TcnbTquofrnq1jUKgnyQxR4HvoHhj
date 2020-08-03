@@ -1,51 +1,68 @@
 <channels>
 <channel>
-<name>[COLOR lime]FILMES [/COLOR]</name>
-<thumbnail>https://i.ibb.co/KbWSBYt/cat-filmes.png</thumbnail>
-<fanart>https://i.ibb.co/wJ6Nr0R/fanartcat-filmes.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/1-FILMESTOR</externallink>
-<info></info>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
 </channel>
 </channels>
 
 <channels>
 <channel>
-<name>[COLOR lime]SERIES [/COLOR]</name>
-<thumbnail>https://i.ibb.co/Z198HvG/cat-series.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/2-SERIES</externallink>
-<fanart></fanart>
-<info></info>
+<name>[COLOR blue][B]CATEGORIAS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
 </channel>
 </channels>
 
 <channels>
 <channel>
-<name>[COLOR lime]DESENHOS [/COLOR]</name>
-<thumbnail>https://i.ibb.co/ThT5YFB/cat-desenhos.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/3-DESENHOS</externallink>
-<fanart>https://i.ibb.co/GpRJghY/fanartcat-desenhos.jpg</fanart>
-<info></info>
+<name>[COLOR lime][B]FILMES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-filmes</thumbnail>
+<fanart>http://bit.do/fanartcat-filmes</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A1-SUB-CAT-FILMES</externallink>
+<info>
+   O MELHOR DA SÉTIMA ARTE</info>
 </channel>
 </channels>
 
 <channels>
 <channel>
-<name>[COLOR lime]G DRIVE[/COLOR]</name>
-<thumbnail>https://i.ibb.co/bPpF6Xv/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2-CATEGORIAS</externallink>
-<fanart></fanart>
-<info></info>
+<name>[COLOR lime][B]SÉRIES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-series</thumbnail>
+<fanart>http://bit.do/fanartcat-series</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A2-SUB-CAT-SERIES</externallink>
+<info>
+   SUA MARATONA ESTA AQUI</info>
 </channel>
 </channels>
 
 <channels>
 <channel>
-<name>[COLOR lime]YOU TUBE[/COLOR]</name>
-<thumbnail>https://ogimg.infoglobo.com.br/in/13167142-9c1-559/FT1086A/652/youtubelogo.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/2-YOU%20YUBE</externallink>
-<fanart>https://i.ibb.co/ZzDKJBc/fanartcat-series.jpg</fanart>
-<info></info>
+<name>[COLOR lime][B]DESENHOS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-desenhos</thumbnail>
+<fanart>http://bit.do/fanartcat-desenhos</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A3-SUB%20CAT-DESENHOS</externallink>
+<info>
+   DIVERSÃO GARANTIDA PARA A CRIANÇADA</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]TESTES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-desenhos</thumbnail>
+<fanart>http://bit.do/fanartcat-desenhos</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/s%C3%A9riesdeguerra</externallink>
+<info>
+   TESTES
+   </info>
+</channel>
+</channels>
+
 
 
