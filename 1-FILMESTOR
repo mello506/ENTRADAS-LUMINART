@@ -60,7 +60,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]TRAILER[/COLOR]</title>
+<title>[COLOR lime]Flyboys – 1080p- YOU TUBE[/COLOR]</title>
 <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=oXkwGFwfc6g</trailer>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aTtQuT2Xj71VuigUeqgy4ooIAVP.jpg</fanart>
@@ -69,7 +69,17 @@
 </item>
 </channel>
 
+<item>
+<title>[COLOR lime]TRAILER - NOME DO FILME E DADOS[/COLOR]</title>
+<trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=v=qhKnuKFEKcA</trailer>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aTtQuT2Xj71VuigUeqgy4ooIAVP.jpg</fanart>
+<info>1916, dois anos após o início da 1ª Guerra Mundial. Milhões de pessoas já morreram e as forças aliadas, compostas por França e Inglaterra, seguem em uma luta inativa nas trincheiras contra as tropas alemãs. Os Estados Unidos seguem sua posição de neutralidade, o que não impede que alguns americanos partam para a Europa para ajudar como motoristas voluntários de ambulância ou integrantes da Legião Estrangeira da França. Um deles é Blaine Rawlings (James Franco), um texano que foi expulso do rancho de sua família e que idealiza uma vida de herói pilotando aviões. Ele logo se une a Higgins (Christien Anholt), um recruta da Legião Estrangeira que é transferido; William Jensen (Philip Winchester), que se alistou para seguir a tradição da família; Briggs Lowry (Tyler Labine), que se alistou devido à pressão do pai; Eddie Beagle (David Ellison), que deseja fugir de seu passado; Eugene Skinner (Abdul Salis), que deseja defender a França devido ao país ter sido tolerante ao permitir que se tornasse campeão de boxe; e Reed Cassidy (Martin Henderson), um piloto de guerra veterano. Sob o comando do capitão Georges Thenault (Jean Reno), os pilotos franceses realizam um rigoroso treinamento com os americanos, de forma que eles possam integrar a Esquadrilha Lafayette, o 1º esquadrão de pilotos americanos a lutar na 1ª Guerra Mundial.</info>
+<genre>GUERRA</genre>
+</item>
+</channel>
 
+v=qhKnuKFEKcA
 <channels></channels>
 <channel>
 <name>[COLOR lime]NOME DO FILME[/COLOR]</name>
