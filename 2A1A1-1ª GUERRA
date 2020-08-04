@@ -58,24 +58,17 @@ de combate americanos e formaram o esquadrão conhecido como "Lafayette Escadril
 </item>
 
 <item>
-<title>[COLOR blue]TRAILER[/COLOR]</title>
+<title>[COLOR lime]TRAILER - Flyboys [/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=qhKnuKFEKcA</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xezeqrrno6ytLyLrbTXRGUk4rdu.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aTtQuT2Xj71VuigUeqgy4ooIAVP.jpg</fanart>
+<info>Antes dos Estados Unidos participarem da Primeira Guerra Mundial, jovens americanos foram os primeiros pilotos 
+de combate americanos e formaram o esquadrão conhecido como "Lafayette Escadrille".</info>
+<genre>GUERRA</genre> 
 </item>
 
 </channel>
 
-<channels><channels>
-<name>[COLOR lime][B]PRÓXIMA PÁGINA[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/HFVVkdq/Proxima.png</thumbnail>
-<fanart>https://i.ibb.co/Jqj42m2/fanartentrada.jpg</fanart>
-<externallink></externallink>
-<info>
-ACESSE PARA MAIS CONTEÚDO</info>
-</channel>
 
 
 
