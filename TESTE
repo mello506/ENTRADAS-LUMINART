@@ -1,0 +1,42 @@
+<channels>
+<channel>
+<name>[COLOR yellow]###[/COLOR][COLOR deepskyblue] AVISO [/COLOR][COLOR yellow]###[/COLOR]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/002/780/553/full/ementrun.png?1595184436</thumbnail>
+<externallink>plugin://plugin.video.elementum/play?uri=</externallink>
+<fanart>https://uploaddeimagens.com.br/images/002/780/554/full/elementum_fanart.png?1595184454</fanart>
+<info>| PARA UTILIZAR ESSE ADDON,
+VOCÊ PRECISA INSTALAR O 
+ADDON ELEMENTUM |
+
+Elementum é um mecanismo de busca e streaming de torrents. Ele não é acessado em sites de torrent por razões legais. No entanto, ele chama complementos especialmente criados (chamados provedores) que são instalados separadamente. Este projeto é uma bifurcação dos conhecidos, mas não mais mantidos projetos Pulsar / Quasar de steeve e scakemyer.
+Para o download acesse o site oficial:
+[COLOR blue]http://elementum.surge.sh/[/COLOR] e baixe o pacote adequado para o seu sistema.</info>
+</channel>
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 
+<channels>
+<channel>
+<name>[COLOR wheat]FILMES[/COLOR]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/002/797/738/full/FILMES_ICON.png?1595903290</thumbnail>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/2A1A1-1%C2%AA%20GUERRA</externallink>
+<fanart>https://uploaddeimagens.com.br/images/002/793/259/original/fanart.jpg?1595664856</fanart>
+<info>A UNIÃO DA MAGIA CINEMATOGRÁFICA E O VISUAL CRISTALINO DE UMA IMAGEM EM ALTA DEFINIÇÃO DESPERTA GRANDE INTERESSE, LEVANDO EMOÇÃO E ENTRETENIMENTO.
+DIVIRTA-SE: TEM EMOÇÃO NO AR!</info>
+</channel>
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR goldenrod]SERIES[/COLOR]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/002/797/739/full/SERIES_ICON.png?1595903311</thumbnail>
+<externallink>https://pastebin.com/raw/DmSGHcJ2</externallink>
+<fanart>https://uploaddeimagens.com.br/images/002/780/627/full/REVIVA_fanart.jpg?1595186838</fanart>
+<info>MARATONAR UMA TEMPORADA INTEIRA DE ALGUMAS SERIES É ALGO MUITO BOM, SEJA ELA ANTIGA OU NOVA, E TUDO SE TORNA AINDA MELHOR QUANDO O SERVIÇO DE STREAMING É DE BOA QUALIDADE, E QUE SEJAM DISPONIBILIZADAS TODAS AS TEMPORADAS DE UMA SÓ VEZ, SEM PRECISAR FICAR AGUARDANDO MUITO TEMPO PARA DESVENDAR OS MISTÉRIOS QUE RONDAM OS PERSONAGENS DE DETERMINADA SÉRIE. 
+DIVIRTA-SE: TEM EMOÇÃO NO AR!</info>
+</channel>
+</channels>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
