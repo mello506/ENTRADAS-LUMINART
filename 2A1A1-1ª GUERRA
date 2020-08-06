@@ -6,22 +6,6 @@
 <info>1916, dois anos após o início da 1ª Guerra Mundial. Milhões de pessoas já morreram e as forças aliadas, compostas por França e Inglaterra, seguem em uma luta inativa nas trincheiras contra as tropas alemãs. Os Estados Unidos seguem sua posição de neutralidade, o que não impede que alguns americanos partam para a Europa para ajudar como motoristas voluntários de ambulância ou integrantes da Legião Estrangeira da França. Um deles é Blaine Rawlings (James Franco), um texano que foi expulso do rancho de sua família e que idealiza uma vida de herói pilotando aviões. Ele logo se une a Higgins (Christien Anholt), um recruta da Legião Estrangeira que é transferido; William Jensen (Philip Winchester), que se alistou para seguir a tradição da família; Briggs Lowry (Tyler Labine), que se alistou devido à pressão do pai; Eddie Beagle (David Ellison), que deseja fugir de seu passado; Eugene Skinner (Abdul Salis), que deseja defender a França devido ao país ter sido tolerante ao permitir que se tornasse campeão de boxe; e Reed Cassidy (Martin Henderson), um piloto de guerra veterano. Sob o comando do capitão Georges Thenault (Jean Reno), os pilotos franceses realizam um rigoroso treinamento com os americanos, de forma que eles possam integrar a Esquadrilha Lafayette, o 1º esquadrão de pilotos americanos a lutar na 1ª Guerra Mundial.</info>
 <genre>GUERRA</genre>
 
-<channels>
-<channel>
-<name>[COLOR yellow]###[/COLOR][COLOR deepskyblue] AVISO [/COLOR][COLOR yellow]###[/COLOR]</name>
-<thumbnail>https://uploaddeimagens.com.br/images/002/780/553/full/ementrun.png?1595184436</thumbnail>
-<externallink>plugin://plugin.video.elementum/play?uri=</externallink>
-<fanart>https://uploaddeimagens.com.br/images/002/780/554/full/elementum_fanart.png?1595184454</fanart>
-<info>| PARA UTILIZAR ESSE ADDON,
-VOCÊ PRECISA INSTALAR O 
-ADDON ELEMENTUM |
-
-Elementum é um mecanismo de busca e streaming de torrents. Ele não é acessado em sites de torrent por razões legais. No entanto, ele chama complementos especialmente criados (chamados provedores) que são instalados separadamente. Este projeto é uma bifurcação dos conhecidos, mas não mais mantidos projetos Pulsar / Quasar de steeve e scakemyer.
-Para o download acesse o site oficial:
-[COLOR blue]http://elementum.surge.sh/[/COLOR] e baixe o pacote adequado para o seu sistema.</info>
-</channel>
-</channels>
-
 <item>
 <title>[COLOR lime]TORRENT -> FLYBOYS – 2019 - 720 - DUB[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E543DE164660048AC5DEFADFC547A3C78E73F0F&dn=A%20Ponte%20de%20Remagem%201969%20%281080p%29%20LAPUMiA&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
