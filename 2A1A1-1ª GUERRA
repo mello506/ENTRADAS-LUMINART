@@ -57,8 +57,6 @@ de combate americanos e formaram o esquadrão conhecido como "Lafayette Escadril
 <genre>GUERRA</genre> 
 </item>
 
-</channel>
-
 <item>
 <title>[COLOR lime]NOME DO FILME[/COLOR] </title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rowYW_b-NlZveh6ibvGaGWgMWtPQhaRk/view$$lsname=[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR] - DUBLADO</link>
@@ -68,6 +66,8 @@ thumbnail>ICONE</thumbnail>
 <info>SINOPSE</info>
 <genre>GENERO</genre>
 </item>
+
+</channel>
 
 
 
