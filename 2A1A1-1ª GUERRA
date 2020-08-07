@@ -59,6 +59,17 @@ de combate americanos e formaram o esquadrão conhecido como "Lafayette Escadril
 
 </channel>
 
+<item>
+<title>[COLOR lime]NOME DO FILME[/COLOR] </title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rowYW_b-NlZveh6ibvGaGWgMWtPQhaRk/view
+$$lsname=[COLOR lime]NOME DO FILME - DATA - SD 720 1080 - DUB LEG[/COLOR] - DUBLADO</link>
+<link>plugin://plugin.video.youtube/play/?video_id=CT1JHKpSHXA$$lsname=[COLOR blue]TRAILER[/COLOR]</link>
+thumbnail>ICONE</thumbnail>
+<fanart>FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+</item>
+
 
 
 
