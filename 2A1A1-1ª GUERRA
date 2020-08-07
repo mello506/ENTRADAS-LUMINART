@@ -1,18 +1,7 @@
-<item>
-<title>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</title>
-<thumbnail>http://bit.do/iconnavegacao</thumbnail>
-<fanart>http://bit.do/fanartnavegacao</fanart>
-<externallink>plugin://plugin.video.elementum/play?uri=</externallink>
-<info>
-   [COLOR blue]COR AZUL - SEM LINK[/COLOR]
-   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
-   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
-</item>
 
 <item>
 <title>[COLOR lime]FLYBOYS[/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3972F71683FCF9AADCA49FCD43333C39AE553F18&dn=Flyboys%20%282006%29%201080p%20Dublado%20-%20Alan_680&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce
-$$lsname=[COLOR lime]TORRENT -> FLYBOYS – 2019 - 1080 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3972F71683FCF9AADCA49FCD43333C39AE553F18&dn=Flyboys%20%282006%29%201080p%20Dublado%20-%20Alan_680&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce$$lsname=[COLOR lime]TORRENT -> FLYBOYS – 2019 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F21EdtzzOgmrCUoc-uJGN4Sqt-gspNjH/view$$lsname=[COLOR lime]G DRIVE -> FLYBOYS – 2019 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=qhKnuKFEKcA$$lsname=[COLOR lime]YOU TUBE -> FLYBOYS – 2019 - 1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=qhKnuKFEKcA$$lsname=[COLOR lime]TRAILER[/COLOR]</link>
