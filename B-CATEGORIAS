@@ -1,0 +1,42 @@
+<channels>
+<channel>
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>
+   [COLOR blue]COR AZUL- SEM LINK[/COLOR]
+   [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+   [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]CATEGORIAS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>ESCOLHA O GÊNERO DO FILME PARA ASSISTIR</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]FILMES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/2A1A-FILMES%20DE%20GUERRA</externallink>
+<info>
+BATALHAS E COMBATES É AQUI</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]SÉRIES[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
+<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/2A1B-%20FILMES%20DE%20AVENTURA</externallink>
+<info>
+BATALHAS E COMBATES É AQUI</info>
+</channel>
+</channels>
