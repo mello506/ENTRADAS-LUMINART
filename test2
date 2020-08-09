@@ -1,8 +1,7 @@
 <item>
 <title>[COLOR white][B]1x01 . Eu Não Estava Pronta[/B][/COLOR]</title>
 <link>
-sublink:emu://plugin.video.gdrive?mode=streamURL&amp;url=
-https://drive.google.com/file/d/1F21EdtzzOgmrCUoc-uJGN4Sqt-gspNjH/view$$lsname=[COLOR lime]G DRIVE-> FLYBOYS - 2019 - 1080 - DUB[/COLOR]
+sublink:emu://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1F21EdtzzOgmrCUoc-uJGN4Sqt-gspNjH/view$$lsname=[COLOR lime]G DRIVE-> FLYBOYS - 2019 - 1080 - DUB[/COLOR]
 sublink:emu:plugin://plugin.video.youtube/play/?video_id=oXkwGFwfc6g$$lsname=[COLOR lime]YOUTUBE -> FLYBOYS - 2019 - 1080 - DUB[/COLOR]
 </link>
 <thumbnail>https://goo.gl/5ibDXe</thumbnail>
@@ -10,7 +9,7 @@ sublink:emu:plugin://plugin.video.youtube/play/?video_id=oXkwGFwfc6g$$lsname=[CO
 </item>
  
 <item>
-<title>[COLOR white][B]1x02 . Soco no Seio[/B][/COLOR]</title>
+<title>FLYBOYS</title>
 <link>
 sublink:emu://server09/ORGITBS01EP02.mp4?NOME:LEG
 sublink:emu://server09/ORGITBT01EP02.mp4?NOME:DUB
