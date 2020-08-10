@@ -19,7 +19,18 @@ $$lsname=[COLOR lime]G DRIVE -> NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR
 
 <item>
 <title>[COLOR lime]TESTE LINKSMULTIPLOS COM TORRENT[/COLOR]</title>
-<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[COLOR lime]TORRENT -> NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CFD08B426814E8A5649E6DC3B5490C8641644286&dn=%5bCOMANDOTORRENTSHD.NET%5d%20Scooby%20O%20
+Filme%202020%20720p%20FULL%20BluRay%20X264%20DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2
+fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2ftracker4.piratux.com%3a6969%2f
+announce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.yify-torrents.com%3a80%2fannounce&tr=
+http%3a%2f%2fwww.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=http%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=
+http%3a%2f%2fbt.careland.com.cn%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=
+udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=
+http%3a%2f%2ftracker.yify-torrents.com%2fannounce&tr=udp%3a%2f%2ftracker.prq.to%2fannounce&tr=udp%3a%2f%2ftracker.1337x.org%3a80%2fannounce&tr=udp%3a%2f%2f9.
+rarbg.com%3a2720%2fannounce&tr=udp%3a%2f%2ftracker.ex.ua%3a80%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=udp%3a%2f%2f12.
+rarbg.me%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f11.rarbg.
+com%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce&tr=udp%3a%2f%2ffr33dom.h33t.com%3a3310%2fannounce&tr=udp%3a%2f%2fpublic.popcorn-tracker.
+org%3a6969%2fannounce$$lsname=[COLOR lime]TORRENT -> SCOOBY - DATA - 720 1080 - DUB LEG[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rowYW_b-NlZveh6ibvGaGWgMWtPQhaRk/view$$lsname=[COLOR lime]G DRIVE[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=CT1JHKpSHXA$$lsname=[COLOR lime]TRAILER YOUTUBE[/COLOR]</link>
 <thumbnail>https://1.bp.blogspot.com/-aUietJyy1Eo/VXPrNrcGO7I/AAAAAAAhlEY/-atAOq4jw-0/s1600/Gallipoli-1981-MSS-dvdcover-2.jpg</thumbnail>
