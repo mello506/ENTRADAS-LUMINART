@@ -51,7 +51,7 @@ $$lsname=[COLOR lime]G DRIVE -> NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR
 
 <item>
 <title>Trailer</title>
-<utube>g3vf3-wPwgQ</utube>
+<utube>g3vf3-wPwgQ$$lsname=[COLOR lime]TRAILER YOUTUBE[/COLOR]</utube>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxxc0Gu99jhrRm5SYkKIfRl9Vpa.jpg</thumbnail>
 <fanart></fanart>
 <info></info>
