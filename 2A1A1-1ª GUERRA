@@ -1,3 +1,29 @@
+<item>
+<title>[COLOR lime]GHOSTS OF WAR[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[COLOR lime]TORRENT -> Ghosts of War  - 2020 -  1080 -  LEG[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rowYW_b-NlZveh6ibvGaGWgMWtPQhaRk/view
+$$lsname=[COLOR red]G DRIVE -> NOME DO FILME - DATA - 720 1080 - DUB LEG</link>
+<link>plugin://plugin.video.youtube/play/?video_id=HosMSr3L0M0$$lsname=[COLOR lime]TRAILER YOUTUBE[/COLOR]</link>
+<thumbnail>https://comandotorrentshd.net/wp-content/uploads/2020/07/Ghosts-of-War-Torrents.jpg</thumbnail>
+<fanart>https://FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>  
+</item>
+
+<item>
+<title>[COLOR lime]NOME DO FILME[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[COLOR lime]TORRENT -> NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rowYW_b-NlZveh6ibvGaGWgMWtPQhaRk/view
+$$lsname=[COLOR lime]G DRIVE -> NOME DO FILME - DATA - 720 1080 - DUB LEG</link>
+<link>plugin://plugin.video.youtube/play/?video_id=LINKYOTUBE$$lsname=[COLOR lime]TRAILER YOUTUBE[/COLOR]</link>
+<thumbnail>https://ICON</thumbnail>
+<fanart>https://FANART</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>  
+</item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels>
 <channel>
 <name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
@@ -95,6 +121,8 @@ $$lsname=[COLOR lime]G DRIVE -> NOME DO FILME - DATA - 720 1080 - DUB LEG</link>
 <info>SINOPSE</info>
 <genre>GENERO</genre>  
 </item>
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 </channel>
 
