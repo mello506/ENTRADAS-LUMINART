@@ -44,18 +44,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>NOME DA SÉRIE (com acentos) -  720 1080 - DUB LEG</title>
-<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR lime]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR lime]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR lime]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR lime]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR lime]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR lime]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR lime]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR lime]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR lime]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR lime]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
-<link>plugin://plugin.video.youtube/play/?video_id=(((IDTRAILER)))$$lsname=[COLOR lime]TRAILER YOUTUBE[/COLOR]</link>
+<title>[COLOR red]NOME DA SÉRIE (com acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=(((LINKMAGNET)))$$lsname=[COLOR red]TEMP00 <-> NOME DA SERIE (sem acentos) - DATA - 720 1080 - DUB LEG[/COLOR]</link>
+<link>plugin://plugin.video.youtube/play/?video_id=(((IDTRAILER)))$$lsname=[COLOR red]TRAILER YOUTUBE[/COLOR]</link>
 <thumbnail>CAPADASÉRIE</thumbnail>
 <fanart>FANARTDASERIE</fanart>
 <info>SINOPSE</info>
