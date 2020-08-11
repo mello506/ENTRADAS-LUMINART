@@ -21,7 +21,7 @@ $$lsname=[COLOR red]G DRIVE -> NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]
 </item>
 
 <item>
-<title>[COLOR lime]NOME DO FILME[/COLOR]</title>
+<title>[COLOR lime]NOME DO FILME[/COLOR] </title>
 <link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[COLOR lime]TORRENT -> NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rowYW_b-NlZveh6ibvGaGWgMWtPQhaRk/view
 $$lsname=[COLOR lime]G DRIVE -> NOME DO FILME - DATA - 720 1080 - DUB LEG[/COLOR]</link>
