@@ -22,22 +22,33 @@
 <channels>
 <channel>
 <name>[COLOR lime][B]FILMES[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
-<fanart>http://bit.do/fanartsubcat-guerra</fanart>
+<thumbnail>http://bit.do/cat-filmes</thumbnail>
+<fanart>http://bit.do/fanartcat-filmes</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/2A1-SUB-CAT-FILMES</externallink>
 <info>
-BATALHAS E COMBATES É AQUI</info>
+   O MELHOR DA SÉTIMA ARTE</info>
 </channel>
 </channels>
 
 <channels>
 <channel>
 <name>[COLOR lime][B]SÉRIES[/B][/COLOR]</name>
-<thumbnail>http://bit.do/iconesubcat-guerra</thumbnail>
-<fanart>http://bit.do/fanartsubcat-guerra</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/2B1-SERIES</externallink>
+<thumbnail>http://bit.do/cat-series</thumbnail>
+<fanart>http://bit.do/fanartcat-series</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-TORRENTS/master/2B1-SUB-CAT-SERIES</externallink>
 <info>
-BATALHAS E COMBATES É AQUI</info>
+   SUA MARATONA ESTA AQUI</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]DESENHOS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/cat-desenhos</thumbnail>
+<fanart>http://bit.do/fanartcat-desenhos</fanart>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINART-STUDIO/master/2A3-SUB%20CAT-DESENHOS</externallink>
+<info>
+   DIVERSÃO GARANTIDA PARA A CRIANÇADA</info>
 </channel>
 </channels>
 
