@@ -41,6 +41,85 @@ BATALHAS E COMBATES É AQUI</info>
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR red][B]ÉPICOS[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-epicos</thumbnail>
+<fanart>http://bit.do/fanartsubcat-epicos</fanart>
+<externallink>LINKRAWÉPICOS</externallink>
+<info>
+PASSAGENS HISTÓRICAS COMO NUNCA VISTAS</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red][B]ANIMAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-animacao</thumbnail>
+<fanart>http://bit.do/subcatfanart-animacao</fanart>
+<externallink>LINKRAWANIMAÇÃO</externallink>
+<info>
+DIVERSÃO GARANTIDA</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red][B]AÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-acao</thumbnail>
+<fanart>http://bit.do/subcatfanart-acao</fanart>
+<externallink>LINKRAWAÇAÕ</externallink>
+<info>
+SEGURE-SE NA POLTRONA AQUI É PANCADARAIA E TIROTEIO</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red][B]FICÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-ficcao</thumbnail>
+<fanart>http://bit.do/fanartsubcat-ficcao</fanart>
+<externallink>LINKRAWFICÇÃO</externallink>
+<info>
+EXPLORE OUTROS MUNDOS E DIMENSÕES </info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red][B]SUSPENSE E TERROR[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconesubcat-gialo</thumbnail>
+<fanart>http://bit.do/fanartsubcat-gialo</fanart>
+<externallink>LINKRAWSUSPENSEETERROR</externallink>
+<info>
+PREPARE SEU CORAÇÃO PARA O MEDO E O MISTÉRIO</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red][B]CRIME E DRAMA[/B][/COLOR]</name>
+<thumbnail>http://bit.do/sub-cat-drama-png</thumbnail>
+<fanart>http://bit.do/fanartsubcat-drama-jpg</fanart>
+<externallink>LINKRAWCRIMEEDRAMA</externallink>
+<info>
+OS MELHORES CLÁSSICOS DOS DOIS GÊNEROS ESTÃO AQUI</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red][B]SUPER-HERÓIS[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/jhRSW6S/sub-cat-superherois.png</thumbnail>
+<fanart>https://i.ibb.co/JRDP6rZ/fanartsubcat-superherois.jpg</fanart>
+<externallink>LINKRAWSUPERHEROIS</externallink>
+<info>
+OS MAIORES HERÓIS EM SUA MAIORES AVENTURAS</info>
+</channel>
+</channels>
+
+
+
 
 
 
