@@ -1,14 +1,11 @@
-
 <channels>
 <channel>
-<name>[COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/rFSK2ZS/Iconnavega-o.png</thumbnail>
-<fanart>https://i.ibb.co/3Cq925P/fanartnavega-o.jpg</fanart>
-<info>
-[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+<name>[COLOR blue][B]DICAS DE NAVEGAÇÃO[/B][/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
-NO EMAIL - luminartstudio4@gmail.com
-   </info>
+NO EMAIL - luminartstudio4@gmail.com</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
