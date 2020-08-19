@@ -73,10 +73,13 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 </item>
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <item>
-<title>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROGUE ONE - UMA HISTÓRIA STAR WARS - 2017 - 1080 - DUB[/COLOR]</title>
+<title>[COLOR lime] ROGUE ONE - UMA HISTÓRIA STAR WARS - 2017 - DUB[/COLOR]</title>
 
 <link>plugin://plugin.video.youtube/play/?video_id=frdj1zb9sMY$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROGUE ONE - UMA HISTORIA STAR WARS[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34161A0CCF73F79EF482BD5B8B187CB92258C2BC&dn=Rogue%20One%20-%20Uma%20Hist%c3%b3ria%20Star%20Wars%202017%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROGUE ONE - UMA HISTORIA STAR WARS - 1080 - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1658962aa36f1dcbbb9411a62405b06ca4c3267c&dn=Rogue.one.2016.720p.bluray.x264.sparks.Dub&tr=udp%3a%2f%2f9.rarbg.to%3a2730%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT - 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROGUE ONE - UMA HISTORIA STAR WARS - DUB[/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34161A0CCF73F79EF482BD5B8B187CB92258C2BC&dn=Rogue%20One%20-%20Uma%20Hist%c3%b3ria%20Star%20Wars%202017%20%281080p%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce$$lsname=[B]TORRENT - 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] ROGUE ONE - UMA HISTORIA STAR WARS - DUB[/COLOR]</link>
 
 <thumbnail>https://ICON</thumbnail>
 <fanart>https://FANART</fanart>
