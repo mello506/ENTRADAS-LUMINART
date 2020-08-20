@@ -25,10 +25,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3972F71683FCF9AADCA49FCD43333C39AE553F18&dn=Flyboys%20%282006%29%201080p%20Dublado%20-%20Alan_680&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce$$lsname=[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR lime] FLYBOYS -1080 - DUB[/COLOR]</link>
 <link>plugin://plugin.video.youtube/play/?video_id=oXkwGFwfc6g$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] FLYBOYS -1080 - DUB[/COLOR]</link>
 
-<thumbnail>ICONE</thumbnail>
-<fanart>FANART</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>  
+<thumbnail>https://i.ibb.co/N1ysv46/flyboys-icon.jpg</thumbnail>
+<fanart>https://i.ibb.co/SdP3Sms/flyboys-fan.jpg</fanart>
+<info>Antes dos Estados Unidos participarem da Primeira Guerra Mundial, jovens americanos foram os primeiros pilotos de combate americanos e formaram o esquadrão conhecido como "Lafayette Escadrille"</info>
+<genre>1ª GUERRA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
@@ -42,7 +42,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://i.ibb.co/KwgmJLx/gallipoli-icon.jpg</thumbnail>
 <fanart>https://i.ibb.co/Gp7x1Rm/gallipoli-fan.jpg</fanart>
 <info>Unidos pelo idealismo, dois amigos velocistas australianos se alistam no exército em 1915. Enviados para lutar contra os turcos na lendária batalha de Gallipoli, eles se deparam com os horrores da guerra.</info>
-<genre>GUERRA</genre>  
+<genre>1ª GUERRA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
