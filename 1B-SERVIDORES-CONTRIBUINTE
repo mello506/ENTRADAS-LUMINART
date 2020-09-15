@@ -11,11 +11,29 @@ NO EMAIL - luminartstudio4@gmail.com</info>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
-<name>[COLOR lime][B] INFORMAÇÕES IMPORTANTES - CLIQUE AQUI [/B][/COLOR] </name>
+<name>[COLOR blue][B] ACESSO VÁLIDO ATÉ 15/10/2020[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AGRADECEMOS SUA VISITA</info>
+</channel>
+</channels>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<channels>
+<channel>
+<name>[COLOR blue][B] MELHORE O DESEMPENHO DO ADD ON[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AGRADECEMOS SUA VISITA</info>
+</channel>
+</channels>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<channels>
+<channel>
+<name>[COLOR lime][B] CLIQUE AQUI E SAIBA COMO [/B][/COLOR] </name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/3-INFORMACOES</externallink>
 <thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>MELHORE O DESEMPENHO DO LUMINART STUDIO</info>
+<info>AGRADECEMOS SUA VISITA</info>
 </channel>
 </channels>
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -33,7 +51,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <name>[COLOR lime][B] SERVER TORRENTS[/B][/COLOR] </name>
 <externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/3-CATEGORIAS</externallink>
 <thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<fanart>https://i.ibb.co/mbqqcgP/torrents-fan.jpg</fanart>
 <info>PARA UTILIZAR ESSE SERVIDOR,VOCÊ PRECISA INSTALAR O ADDON ELEMENTUM - SE SEU KODI NÃO TEM...NOSSO ADDON VAI BAIXAR E INSTALAR, CASO NÃO OCORRA  
 REPORTE O ERRO NO EMAIL - luminartstudio4@gmail.com</info>
 </channel>
@@ -44,7 +62,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR lime][B] SERVER G DRIVE[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/3-CATEGORIAS</externallink>
 <thumbnail>https://i.ibb.co/VjFtcfW/servidorgdrive-icon.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<fanart>https://i.ibb.co/xmQTRGc/gdrive-fan.jpg</fanart>
 <info>O SERVIDOR DEPENDE DO PLUGIN G DRIVE, MANTENHA INSTALADO E ATUALIZADO OS LINKS PODEM CAIR POR EXCESSO DE VISUALIZAÇÕES REPORTE LINKS OFF NO EMAIL - luminartstudio4@gmail.com</info></info>
 </channel>
 </channels>
@@ -54,7 +72,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR lime][B] SERVER YOUTUBE[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/2D-YOUTUBE</externallink>
 <thumbnail>https://i.ibb.co/26LjwYW/servidoryoutube-icon.png</thumbnail
-<fanart>http://bit.do/entrarfanart</fanart>
+<fanart>https://i.ibb.co/tMj0Rbb/youtube-fan.jpg</fanart>
 <info>OS LINKS DESSE SERVIDOR PODEM CAIR FACILMENTE 
 REPORTE LINKS OFF NO EMAIL
 luminartstudio4@gmail.com</info>
@@ -90,7 +108,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR lime][B] LISTAS DE TVs [/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/2C-LISTASDECANAISDETV</externallink>
 <thumbnail>https://i.ibb.co/Hh4Pkgk/tvsonline-icon.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
+<fanart>https://i.ibb.co/Jr8TTC0/tv-fan.jpg</fanart>
 <info>OS LINKS DESSE SERVIDOR PODEM CAIR FACILMENTE 
 REPORTE LINKS OFF NO EMAIL
 luminartstudio4@gmail.com</info>
@@ -105,6 +123,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>AQUI ATENDEMOS OS PEDIDOS DE NOSSOS USUÁRIOS</info>
 <genre>PEDIDOS</genre>  
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] SUGESTÃO DO DESENVOLVEDOR[/B][/COLOR] </name>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/81-SUGESTAODODESENV</externallink>
+<thumbnail>https://i.ibb.co/5GJcD0n/pedidos-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>FILMES OU SÉRIES QUE GOSTAMOS</info>
+<genre>SUGESTÕES</genre>  
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
