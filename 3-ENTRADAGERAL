@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] BEM VINDO AO LUMINART STUDIO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
+<name>                    [COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] BEM VINDO AO LUMINART STUDIO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
 <thumbnail>http://bit.do/iconentrada</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
@@ -21,11 +21,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-
 <channels>
 <channel>
 <name>[COLOR blue][B]VERSÃO DE AVALIAÇÃO[/B][/COLOR]</name>
-<thumbnail>http://bit.do/entraricon</thumbnail>
+<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <externallink>https://raw.githubusercontent.com/mello506/ENTRADAS-LUMINART/master/31-SELETIVA%20GERAL</externallink>
 <info>AGRADECEMOS SUA PREFERÊNCIA</info>
