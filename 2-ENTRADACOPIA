@@ -15,7 +15,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR lime][B]CLIQUE AQUI E ACESSE NOSSO CONTEUDO[/B][/COLOR]</name>
 <thumbnail>http://bit.do/entraricon</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>LINKPARASELETIVADOAVALIADOR</externallink>
+<externallink>LINKPARAASELETIVADO ACESSO</externallink>
 <info>AGRADECEMOS SUA PREFERÊNCIA</info>
 </channel>
 </channels>
@@ -23,11 +23,25 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR blue][B]VERSÃO DE AVALIAÇÃO[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
+<name>[COLOR blue][B] MELHORE O DESEMPENHO DO ADD ON[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>AGRADECEMOS SUA PREFERÊNCIA</info>
+<info>AGRADECEMOS SUA VISITA</info>
 </channel>
 </channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] CLIQUE AQUI E SAIBA COMO [/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/3-INFORMACOES </externallink>
+<thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AGRADECEMOS SUA VISITA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
 
 
