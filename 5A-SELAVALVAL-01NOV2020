@@ -32,6 +32,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] COMO ATIVAR SEU ACESSO[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AGRADECEMOS SUA VISITA</info>
+
 <item>
 <title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] COMO ATIVAR SEU ACESSO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
 <link>ignoreme</link>
