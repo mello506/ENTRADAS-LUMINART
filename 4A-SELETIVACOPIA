@@ -12,10 +12,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] ENTRE AQUI[/B][/COLOR]</name>
+<name>[COLOR lime][B] ENTRADA ADD ON[/B][/COLOR]</name>
 <thumbnail>http://bit.do/entraricon</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>COLOCARLINKPARACATEGORIASDEPOISDEVALIDAROACESSO</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1-CATEGORIAS</externallink>
 <info>
 AGRADECEMOS SUA VISITA</info>
 </channel>
@@ -24,8 +24,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR blue][B] ACESSO VÁLIDO ATÉ XX/XX/XXXX [/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
+<name>[COLOR blue][B] CONTEÚDO ESPECIAL PARA CONTRIBUINTES[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AGRADECEMOS SUA CONTRIBUIÇÃO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] ENTRADA ÁREA VIP[/B][/COLOR]</name>
+
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/9-LISTASESPECIAISPARA%20CONTRIBUINTES</externallink>
+
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1-ACESSORESTRITO</externallink>
+
+<thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>AGRADECEMOS SUA VISITA</info>
 </channel>
@@ -52,3 +67,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR blue][B] ACESSO VÁLIDO ATÉ XX/XXX/XXXX[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AGRADECEMOS SUA VISITA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
