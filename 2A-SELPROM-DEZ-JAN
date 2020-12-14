@@ -13,11 +13,31 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B] ENTRE AQUI[/B][/COLOR]</name>
+<externallink>COLOCARLINKPARACATEGORIASDAMODALIDADE</externallink>
 <thumbnail>http://bit.do/entraricon</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>COLOCARLINKPARACATEGORIASDAMODALIDADE</externallink>
-<info>
-AGRADECEMOS SUA VISITA</info>
+<info>AGRADECEMOS SUA VISITA</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR blue][B] CONTEÚDO ESPECIAL PARA CONTRIBUINTES[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AGRADECEMOS SUA CONTRIBUIÇÃO</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels>
+<channel>
+<name>[COLOR lime][B] ENTRADA ÁREA VIP[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/9-LISTASESPECIAISPARA%20CONTRIBUINTES</externallink>
+<thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AGRADECEMOS SUA VISITA</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
