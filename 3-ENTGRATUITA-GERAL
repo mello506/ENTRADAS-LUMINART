@@ -27,10 +27,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[COLOR lime][B]CLIQUE AQUI E ASSISTA NOSSA MENSAGEM DE NATAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/4-MENSAGEMDENATAL</externallink>
-<thumbnail>http://bit.do/entraricon</thumbnail>
+<name>[COLOR lime][B]ASSISTA NOSSO VÍDEO DE NATAL[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>AGRADECEMOS SUA PREFERÊNCIA </info>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<info>AGRADECEMOS SUA VISITA</info>
 
+<item>
+<title>[B]VÍDEO[/B][COLOR yellow] ->[/COLOR][COLOR lime]ASSISTA NOSSO VÍDEO DE NATAL[/COLOR]</title>
+
+<link>https://seed307.bitchute.com/OsqmkKQffiY2/SM5HexHnzUtY.mp4</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>FELIZ NATAL A TODOS</info>
+<genre>MENSAGEM</genre>  
+</item>
