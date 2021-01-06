@@ -12,8 +12,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] ENTRADA DO ADDON[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/1-CATEGORIAS</externallink>
+<name>[COLOR lime][B] ENTRADA DO ADD ON[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMIAVALIA/main/1-CATEGORIAS-AVAL</externallink>
 <thumbnail>http://bit.do/entraricon</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>AGRADECEMOS SUA VISITA</info>
@@ -23,18 +23,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR blue][B] CONTEÚDO ESPECIAL PARA CONTRIBUINTES[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>AGRADECEMOS SUA CONTRIBUIÇÃO</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR lime][B] ENTRADA DA ÁREA VIP[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/9-LISTASESPECIAISPARA%20CONTRIBUINTES</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1-ACESSORESTRITO</externallink>
 <thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>AGRADECEMOS SUA VISITA</info>
@@ -44,17 +34,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR blue][B] MELHORE O DESEMPENHO DO ADD ON[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>AGRADECEMOS SUA VISITA</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR lime][B] CLIQUE AQUI E SAIBA COMO [/B][/COLOR]</name>
+<name>[COLOR lime][B] CLIQUE AQUI PARA MELHORAR O DESEMPENHO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/3-INFORMACOES </externallink>
 <thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -63,14 +43,76 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
+<channels></channels>
 <channel>
-<name>[COLOR blue][B] ACESSO VÁLIDO ATÉ 15/JAN/2021 [/B][/COLOR]</name>
+<name>[COLOR lime][B] CLIQUE AQUI PARA INFORMAÇÕES DO ACESSO[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>AGRADECEMOS SUA CONTRIBUIÇÃO</info>
+<info>PRAZO DE VALIDADE</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<item>
+<title>[COLOR white] ACESSO VÁLIDO ATÉ 15/JAN/2021[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white]No inicio do ciclo o acesso é TOTAL [/COLOR]
+[COLOR white] do dia 15 até dia 22 de cada mês.[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] para permitir conhecer todo o conteúdo[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white] No restante do ciclo o acesso ficará reduzido [/COLOR]
+[COLOR white]  em respeito aos usuários que contribuem. [/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] FAÇA SUA DOAÇÃO E TENHA ACESSO MAIS RÁPIDO [/COLOR]
+[COLOR white]E CONTEÚDOS EXCLUSIVOS CONTATE OS GRUPOS DE SUPORTE[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
+</item>
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<item>
+<title>[COLOR blue]CONTATO [COLOR yellow] -> [COLOR white]luminartstudio@gmail.com[/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>http://bit.do/iconentrada</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>INFORMAÇÕES DE CONTATO</info>
+<genre>CONTATO</genre>
+</item>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<item>
+<title>[COLOR white].[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
+</item>
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+<item>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] OBRIGADO PELA ATENÇÂO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/7KbKpr2/validade-icon.png</thumbnail>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
