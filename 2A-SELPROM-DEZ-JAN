@@ -12,7 +12,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] ENTRADA DO ADD ON[/B][/COLOR]</name>
+<name>[COLOR lime][B] CLIQUE AQUI PARA ACESSAR O CONTEUDO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/LUMIAVALIA/main/1-CATEGORIAS-AVAL</externallink>
 <thumbnail>http://bit.do/entraricon</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR lime][B] ENTRADA DA ÁREA VIP[/B][/COLOR]</name>
+<name>[COLOR lime][B] CLIQUE AQUI PARA ACESSAR A ÁREA VIP[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1-ACESSORESTRITO</externallink>
 <thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
