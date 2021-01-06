@@ -23,16 +23,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR blue][B] CONTEÚDO ESPECIAL PARA CONTRIBUINTES[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>AGRADECEMOS SUA CONTRIBUIÇÃO</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
 <name>[COLOR lime][B] ENTRADA DA ÁREA VIP[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1-ACESSORESTRITO</externallink>
 <thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
@@ -44,17 +34,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR blue][B] MELHORE O DESEMPENHO DO ADD ON[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>AGRADECEMOS SUA VISITA</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels>
-<channel>
-<name>[COLOR lime][B] CLIQUE AQUI E SAIBA COMO [/B][/COLOR]</name>
+<name>[COLOR lime][B] CLIQUE AQUI PARA MELHORAR O DESEMPENHO[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/3-INFORMACOES </externallink>
 <thumbnail>https://i.ibb.co/990dhnM/insteconfig-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
